@@ -1,7 +1,4 @@
-p:before {
-  content: "-->";
-}
+body {
+  background-color: silver;
 
-p:after {
-  content: "<--";
 }
